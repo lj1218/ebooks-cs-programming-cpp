@@ -37,3 +37,11 @@ Books for Cpp Programming Language.
 ### C++ 初学者指南
 
 [C++初学者指南[625K].pdf](https://github.com/lj1218/ebooks-cs-programming-cpp/raw/master/books/C++初学者指南[625K].pdf)
+
+### GUI Programming
+
+#### MFC Windows 程序设计
+
+* 第2版
+
+    [MFC\_Windows程序设计（第2版）[91M].pdf](https://github.com/lj1218/ebooks-cs-programming-cpp/raw/master/books/GUI_Programming/MFC/MFC_Windows程序设计（第2版）[91M].pdf)
