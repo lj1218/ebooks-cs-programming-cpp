@@ -34,6 +34,12 @@ Books for Cpp Programming Language.
 
     [C++\_Primer\_Plus（第6版）中文版[253M].part5.rar](https://github.com/lj1218/ebooks-cs-programming-cpp/raw/master/books/C++_Primer_Plus/C++_Primer_Plus（第6版）中文版/C++_Primer_Plus（第6版）中文版[253M].part5.rar)
 
+### C++ Crash Course
+
+* 2019版-英文版
+
+    [cpp-crash-course-fast-paced-introduction-2019[7.7M].pdf](https://github.com/lj1218/ebooks-cs-programming-cpp/raw/master/books/C++_Crash_Course/cpp-crash-course-fast-paced-introduction-2019[7.7M].pdf)
+
 ### C++ 初学者指南
 
 [C++初学者指南[625K].pdf](https://github.com/lj1218/ebooks-cs-programming-cpp/raw/master/books/C++初学者指南[625K].pdf)
